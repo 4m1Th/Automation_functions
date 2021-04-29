@@ -5,7 +5,7 @@
     <classes>
       <class name="CookieEyes.CY">
         <methods>
-          <include name="isenable_ispresent2"/>
+          <include name="de_select"/>
         </methods>
       </class> <!-- CookieEyes.CY -->
     </classes>

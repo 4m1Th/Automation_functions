@@ -2,23 +2,23 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-28T16:52:21 IST" name="Default suite" finished-at="2021-04-28T16:52:49 IST" duration-ms="27530">
+  <suite started-at="2021-04-29T17:42:20 IST" name="Default suite" finished-at="2021-04-29T17:43:18 IST" duration-ms="57164">
     <groups>
     </groups>
-    <test started-at="2021-04-28T16:52:21 IST" name="Default test" finished-at="2021-04-28T16:52:49 IST" duration-ms="27530">
+    <test started-at="2021-04-29T17:42:20 IST" name="Default test" finished-at="2021-04-29T17:43:18 IST" duration-ms="57164">
       <class name="CookieEyes.CY">
-        <test-method signature="verify_waveurl()[pri:1, instance:CookieEyes.CY@4470f8a6]" started-at="2021-04-28T16:52:21 IST" name="verify_waveurl" finished-at="2021-04-28T16:52:48 IST" duration-ms="26788" status="PASS">
+        <test-method signature="verify_waveurl()[pri:1, instance:CookieEyes.CY@7c83dc97]" started-at="2021-04-29T17:42:21 IST" name="verify_waveurl" finished-at="2021-04-29T17:43:01 IST" duration-ms="40667" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_waveurl -->
-        <test-method signature="isenable_ispresent1()[pri:2, instance:CookieEyes.CY@4470f8a6]" started-at="2021-04-28T16:52:48 IST" name="isenable_ispresent1" finished-at="2021-04-28T16:52:48 IST" duration-ms="329" status="PASS">
+        <test-method signature="login()[pri:2, instance:CookieEyes.CY@7c83dc97]" started-at="2021-04-29T17:43:01 IST" name="login" finished-at="2021-04-29T17:43:04 IST" duration-ms="2411" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- isenable_ispresent1 -->
-        <test-method signature="isenable_ispresent2()[pri:3, instance:CookieEyes.CY@4470f8a6]" started-at="2021-04-28T16:52:48 IST" name="isenable_ispresent2" finished-at="2021-04-28T16:52:49 IST" duration-ms="328" status="PASS">
+        </test-method> <!-- login -->
+        <test-method signature="de_select()[pri:3, instance:CookieEyes.CY@7c83dc97]" started-at="2021-04-29T17:43:04 IST" name="de_select" finished-at="2021-04-29T17:43:18 IST" duration-ms="14008" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- isenable_ispresent2 -->
+        </test-method> <!-- de_select -->
       </class> <!-- CookieEyes.CY -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
