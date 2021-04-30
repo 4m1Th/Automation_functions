@@ -65,14 +65,14 @@ public class CY {
 		br.driver.navigate().to(url.consent_banner);
 		Thread.sleep(4000);
 		br.driver.findElement(By.xpath(log2.drop)).click();
-		List <WebElement> element = br.driver.findElements(By.xpath(log2.drop));
-	    for (int i = 5; i < element.size(); i++) {
-	        String temp = element.get(i).getText();
-	        if (temp.equals("5")) {
-	            element.get(i).click();             
-	            break;
-	        }
-	    }
+		Thread.sleep(2000);
+		WebElement elementdrop = br.driver.findElement(By.xpath(log2.drop));
+		List<WebElement> dropdownvalues = br.driver.findElements(By.xpath(log2.drop));
+		for(WebElement value:dropdownvalues)
+		{ 
+		  String pcvalues=value.getText();
+		  System.out.println("value names" + pcvalues);
+		 }
 		
 	}
 	

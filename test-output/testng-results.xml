@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-29T17:42:20 IST" name="Default suite" finished-at="2021-04-29T17:43:18 IST" duration-ms="57164">
+  <suite started-at="2021-04-30T10:59:46 IST" name="Default suite" finished-at="2021-04-30T11:00:09 IST" duration-ms="23650">
     <groups>
     </groups>
-    <test started-at="2021-04-29T17:42:20 IST" name="Default test" finished-at="2021-04-29T17:43:18 IST" duration-ms="57164">
+    <test started-at="2021-04-30T10:59:46 IST" name="Default test" finished-at="2021-04-30T11:00:09 IST" duration-ms="23650">
       <class name="CookieEyes.CY">
-        <test-method signature="verify_waveurl()[pri:1, instance:CookieEyes.CY@7c83dc97]" started-at="2021-04-29T17:42:21 IST" name="verify_waveurl" finished-at="2021-04-29T17:43:01 IST" duration-ms="40667" status="PASS">
+        <test-method signature="verify_waveurl()[pri:1, instance:CookieEyes.CY@7748410a]" started-at="2021-04-30T10:59:46 IST" name="verify_waveurl" finished-at="2021-04-30T10:59:58 IST" duration-ms="12357" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_waveurl -->
-        <test-method signature="login()[pri:2, instance:CookieEyes.CY@7c83dc97]" started-at="2021-04-29T17:43:01 IST" name="login" finished-at="2021-04-29T17:43:04 IST" duration-ms="2411" status="PASS">
+        <test-method signature="login()[pri:2, instance:CookieEyes.CY@7748410a]" started-at="2021-04-30T10:59:58 IST" name="login" finished-at="2021-04-30T11:00:00 IST" duration-ms="2369" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="de_select()[pri:3, instance:CookieEyes.CY@7c83dc97]" started-at="2021-04-29T17:43:04 IST" name="de_select" finished-at="2021-04-29T17:43:18 IST" duration-ms="14008" status="PASS">
+        <test-method signature="de_select()[pri:3, instance:CookieEyes.CY@7748410a]" started-at="2021-04-30T11:00:00 IST" name="de_select" finished-at="2021-04-30T11:00:09 IST" duration-ms="8856" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- de_select -->
